@@ -1,0 +1,17 @@
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\TestConsoleTests.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\TestConsoleTests.pdb
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\TestConsole.exe
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\TestConsole.pdb
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\TestConsole.exe.config
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\obj\Debug\TestConsoleTests.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\obj\Debug\TestConsoleTests.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\obj\Debug\TestConsoleTests.csproj.CopyComplete
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\obj\Debug\TestConsoleTests.dll
+C:\Users\Chris\source\repos\TestConsole\TestConsoleTests\obj\Debug\TestConsoleTests.pdb
