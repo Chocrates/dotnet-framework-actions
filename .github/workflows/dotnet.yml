@@ -24,3 +24,6 @@ jobs:
       
     - name: Build App
       run: msbuild TestConsole.sln
+    
+    - name: Run Tests
+      run:  '& "$(vswhere -property installationPath)\Common7\IDE\MSTest.exe" TestConsole.sln'
