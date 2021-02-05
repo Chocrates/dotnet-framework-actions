@@ -12,6 +12,7 @@ namespace TestConsole
         {
             Add add = new Add();
             Console.WriteLine(add.add(1, 3));
+            Console.WriteLine("Test");
         }
     }
 }
