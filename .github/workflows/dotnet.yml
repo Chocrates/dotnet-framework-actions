@@ -24,6 +24,9 @@ jobs:
       
     - name: Build App
       run: msbuild TestConsole.sln
-    
+    - run: |
+        echo %cd%
+        dir
+        
     - name: Run Tests
       run:  '& "$(vswhere -property installationPath)\Common7\IDE\MSTest.exe" /testcontainer:"TestConsoleTests\bin\Debug\TestConsoleTests"'
